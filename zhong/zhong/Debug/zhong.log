@@ -1,0 +1,16 @@
+﻿生成启动时间为 2015.09.27 8:31:39。
+     1>项目“C:\Users\001\Documents\GitHub\Gallifrey\zhong\zhong\zhong.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Experiment1-1-2015011158.cpp"
+         Experiment1-1-2015011158.cpp
+     1>c:\users\001\documents\github\gallifrey\zhong\zhong\experiment1-1-2015011158.cpp(1): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>c:\users\001\documents\github\gallifrey\zhong\zhong\experiment1-1-2015011158.cpp(1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\users\001\documents\github\gallifrey\zhong\zhong\experiment1-1-2015011158.cpp(5): error C2065: “cout”: 未声明的标识符
+     1>c:\users\001\documents\github\gallifrey\zhong\zhong\experiment1-1-2015011158.cpp(6): error C2065: “cin”: 未声明的标识符
+     1>c:\users\001\documents\github\gallifrey\zhong\zhong\experiment1-1-2015011158.cpp(8): error C2065: “cout”: 未声明的标识符
+     1>c:\users\001\documents\github\gallifrey\zhong\zhong\experiment1-1-2015011158.cpp(8): error C2065: “endl”: 未声明的标识符
+     1>已完成生成项目“C:\Users\001\Documents\GitHub\Gallifrey\zhong\zhong\zhong.vcxproj”(ClCompile 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.20
